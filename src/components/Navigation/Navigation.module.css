@@ -1,0 +1,26 @@
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 8px;
+    height: 100px;
+  
+  }
+  
+  .navigation ul {
+    display: flex;
+    list-style-type: none;
+    gap: 25px;
+    font-weight: bold;
+    font-size: large;
+  }
+  
+  nav li {
+    background-color: rgb(255, 198, 27); /* Grey background color */
+    padding: 5px 10px; /* Adjust padding as needed */
+    font-weight: 550;
+  }  
+  .navigation div img{
+    height: 120px;
+    
+  }
